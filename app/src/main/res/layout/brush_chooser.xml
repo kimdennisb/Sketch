@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+    <ImageButton
+        android:id="@+id/smallest_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/smallest"
+        android:src="@drawable/smallest" />
+    <ImageButton
+        android:id="@+id/smaller_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/smaller"
+        android:src="@drawable/smaller" />
+    <ImageButton
+        android:id="@+id/small_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/small"
+       android:src="@drawable/small" />
+    <ImageButton
+        android:id="@+id/mostmedium_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/mostmedium"
+        android:src="@drawable/most_medium" />
+    <ImageButton
+        android:id="@+id/moremedium_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/moremedium"
+        android:src="@drawable/more_medium" />
+
+    <ImageButton
+        android:id="@+id/medium_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/medium"
+        android:src="@drawable/medium" />
+
+    <ImageButton
+        android:id="@+id/large_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/Large"
+        android:src="@drawable/large" />
+    <ImageButton
+        android:id="@+id/larger_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/morelarge"
+        android:src="@drawable/more_large" />
+    <ImageButton
+        android:id="@+id/largest_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/mostlarge"
+        android:src="@drawable/most_large" />
+</LinearLayout>

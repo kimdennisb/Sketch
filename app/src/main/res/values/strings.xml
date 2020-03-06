@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sketch</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="smallest">Smallest</string>
+    <string name="smaller">Smaller</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="moremedium">More_Medium</string>
+    <string name="mostmedium">Most_Medium</string>
+    <string name="Large">Large</string>
+    <string name="morelarge">More_Large</string>
+    <string name="mostlarge">Most_Large</string>
+    <string name="Pallete">Pallete</string>
+</resources>
